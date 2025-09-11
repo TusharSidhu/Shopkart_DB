@@ -1,2 +1,10 @@
 # Shopkart_DB
-This repository has a sample Ecommerce dataset named Shopkart with 6 tables: Customers, Category, Products, Orders, Order_Items, and Payments. It can be used to practice SQL queries, joins, and analysis like sales, customer trends, inventory tracking, and payment insights.
+
+This project contains the database schema and ER diagram for **Shopkart_DB**, a sample e-commerce platform database.  
+It is designed for practicing **SQL queries, database design, and data analysis**.
+
+---
+
+## 📂 Files Included
+- **schema.sql** → Contains database and table creation scripts.
+- **Shopkart_DB_ERD.png** → Entity Relationship Diagram (ERD) for better understanding of the database structure.
