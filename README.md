@@ -19,5 +19,5 @@ FROM
     Customers
 WHERE
     Registration_Date IS NOT NULL;
-## **|RESULT|**
-## **|5000  |**
+#### **|RESULT|**
+#### **|5000  |**
