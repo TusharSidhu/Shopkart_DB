@@ -19,5 +19,4 @@ FROM
     Customers
 WHERE
     Registration_Date IS NOT NULL;
-#### **|RESULT|**
-#### **|5000  |**
+<img width="980" height="467" alt="image" src="https://github.com/user-attachments/assets/90cb4b8d-9fa7-400f-961b-ab098c7ec954" />
