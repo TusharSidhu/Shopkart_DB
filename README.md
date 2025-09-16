@@ -6,8 +6,6 @@ It is designed for practicing **SQL queries, database design, and data analysis*
 ---
 
 ## 📂 Files Included
-
-
 SHOPKART_DB
 │
 ├── SQL Queries
@@ -18,7 +16,6 @@ SHOPKART_DB
 ├── README.md
 ├── Shopkart_DB_ERD.png
 └── Shopkart_DB_Excel.xlsx
-
 
 - **schema.sql** → Contains database and table creation scripts.
 - **Shopkart_DB_ERD.png** → Entity Relationship Diagram (ERD) for better understanding of the database structure.
