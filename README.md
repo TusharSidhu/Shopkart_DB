@@ -10,6 +10,16 @@ It shows how different entities like Customers, Orders, Products, and Categories
 ---
 
 ## 📂 Files Included
+SHOPKART_DB
+│
+├── SQL Queries
+│ ├── Basic Analysis.sql
+│ └── schema.sql
+│
+├── LICENSE
+├── README.md
+├── Shopkart_DB_ERD.png
+└── Shopkart_DB_Excel.xlsx
 
 - **schema.sql** → Contains database and table creation scripts.
 - **Shopkart_DB_ERD.png** → Entity Relationship Diagram (ERD) for better understanding of the database structure.
