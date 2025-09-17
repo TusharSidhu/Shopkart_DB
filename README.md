@@ -42,7 +42,6 @@ Shopkart_DB/
 │── LICENSE
 
 
-
 ---
 
 ## Files Included  
