@@ -21,26 +21,27 @@ Below is the ER Diagram for better understanding of the database structure:
 
 ## Project Structure  
 
-The project folder structure is organized as follows:  
+The project folder structure is organized as follows:
 
+<pre>
 Shopkart_DB/
 │── CSV/
-│ ├── Customers.csv
-│ ├── Category.csv
-│ ├── Products.csv
-│ ├── Orders.csv
-│ ├── Order_Items.csv
-│ └── Payments.csv
+│   ├── Customers.csv
+│   ├── Category.csv
+│   ├── Products.csv
+│   ├── Orders.csv
+│   ├── Order_Items.csv
+│   └── Payments.csv
 │
 │── SQL Queries/
-│ ├── Basic_Queries.sql
-│ ├── Intermediate_Queries.sql
+│   ├── Basic_Queries.sql
+│   ├── Intermediate_Queries.sql
 │
 │── Database_Schema.sql
 │── ER_Diagram.png
 │── README.md
 │── LICENSE
-
+</pre>
 
 ---
 
