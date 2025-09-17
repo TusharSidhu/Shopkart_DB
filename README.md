@@ -37,9 +37,8 @@ Shopkart_DB/
 │── SQL Queries/
 │   ├── Basic_Queries.sql
 │   ├── Intermediate_Queries.sql
+│   ├── Schema.sql
 │
-│── Database_Schema.sql
-│── ER_Diagram.png
 │── README.md
 │── LICENSE
 </pre>
@@ -49,9 +48,7 @@ Shopkart_DB/
 ## Files Included  
 
 - **CSV/** → Contains all CSV files for the 6 tables mentioned above.  
-- **SQL Queries/** → Contains both **Basic** and **Intermediate** SQL practice queries.  
-- **Database_Schema.sql** → Database creation script with all table definitions.  
-- **ER_Diagram.png** → Visual representation of database relationships.  
+- **SQL Queries/** → Contains **schema**, **Basic** and **Intermediate** SQL practice queries.    
 - **README.md** → Documentation for the project.  
 - **LICENSE** → License details for usage.  
 
