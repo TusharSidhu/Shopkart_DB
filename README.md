@@ -15,7 +15,8 @@ This project includes the **database schema** and **ER diagram** for Shopkart_DB
 
 ## ER Diagram
 Below is the ER Diagram for better understanding of the database structure:  
-<img width="552" height="741" alt="Shopkart_DB_ERD" src="https://github.com/user-attachments/assets/62c0d22d-476f-4677-987b-d040b5a57cb7" />
+<img width="613" height="756" alt="ERD" src="https://github.com/user-attachments/assets/ea22f374-3116-4f67-978f-be0024debf30" />
+
 
 ---
 
