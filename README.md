@@ -55,10 +55,3 @@ Shopkart_DB/
 - **LICENSE** → License details for usage.  
 
 ---
-
-## License  
-
-This project is licensed under the MIT License.  
-You are free to use, modify, and distribute with proper attribution.  
-
----
