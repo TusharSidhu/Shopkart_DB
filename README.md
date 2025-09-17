@@ -35,8 +35,8 @@ Shopkart_DB/
 │   └── Payments.csv
 │
 │── SQL Queries/
-│   ├── Basic_Queries.sql
-│   ├── Intermediate_Queries.sql
+│   ├── Basic_Analysis.sql
+│   ├── Intermediate_Analysis.sql
 │   ├── Schema.sql
 │
 │── README.md
