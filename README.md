@@ -36,7 +36,7 @@ Shopkart_DB/
 │
 │── SQL Queries/
 │   ├── Basic_Analysis.sql
-│   ├── Intermediate_Analysis.sql
+│   ├── Intermediate_and_Advanced_Analysis.sql
 │   ├── Schema.sql
 │
 │── README.md
@@ -48,7 +48,7 @@ Shopkart_DB/
 ## Files Included  
 
 - **CSV/** → Contains all CSV files for the 6 tables mentioned above.  
-- **SQL Queries/** → Contains **schema**, **Basic** and **Intermediate** SQL practice queries.    
+- **SQL Queries/** → Contains **schema**, **Basic**,**Intermediate** and **Advanced** SQL practice queries.    
 - **README.md** → Documentation for the project.  
 - **LICENSE** → License details for usage.  
 
