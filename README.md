@@ -36,6 +36,7 @@ Shopkart_DB/
 │
 │── Excel/
 │   ├── Customer_Analytics.xlsx
+│   ├── Shopkart_DB.xlsx
 │
 │── SQL Queries/
 │   ├── Basic_Analysis.sql
@@ -51,9 +52,7 @@ Shopkart_DB/
 ## Files Included  
 
 - **CSV/** → Contains all CSV files for the 6 tables mentioned above.
-- **Excel/** → Contains all the normalized data and various dashboard analytics.
+- **Excel/** → Contains the normalized data and various dashboard analytics.
 - **SQL Queries/** → Contains **schema**, **Basic**,**Intermediate** and **Advanced** SQL practice queries.    
 - **README.md** → Documentation for the project.  
-- **LICENSE** → License details for usage.  
-
----
+- **LICENSE** → License details for usage.
