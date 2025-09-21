@@ -13,12 +13,16 @@ This project includes the **database schema** and **ER diagram** for Shopkart_DB
 
 ---
 
-## ER Diagram
+## 📊 ER Diagram
 Below is the ER Diagram for better understanding of the database structure:  
 <img width="613" height="756" alt="ERD" src="https://github.com/user-attachments/assets/ea22f374-3116-4f67-978f-be0024debf30" />
 
 
 ---
+## 📈 Dashboard
+Here’s a sample dashboard created from the dataset:
+![Customer Analytics](https://github.com/user-attachments/assets/55201a8f-b755-419f-8900-1a98a32a70a8)
+
 
 ## Project Structure  
 
