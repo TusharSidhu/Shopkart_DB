@@ -31,6 +31,7 @@ This dashboard highlights customer growth, demographics, and regional trends.
 Slicers allow stakeholders to move from a macro view to a micro view, making the dashboard actionable for decision-making.
 
 ## 📈 Order Analytics Dashboard
+![Order Analytics](https://github.com/user-attachments/assets/5489a8ca-b058-4cc1-937d-f4ade4ea32aa)
 
 
 This dashboard highlights order trends, customer activity, category performance, and revenue insights.
