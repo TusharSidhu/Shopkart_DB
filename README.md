@@ -23,6 +23,15 @@ Below is the ER Diagram for better understanding of the database structure:
 Here’s a sample dashboard created from the dataset:
 ![Customer Analytics](https://github.com/user-attachments/assets/55201a8f-b755-419f-8900-1a98a32a70a8)
 
+🚀 **Customer Analytics Dashboard – Visualizing Business Insights**
+
+This dashboard highlights customer growth, demographics, and regional trends.  
+- **Top row:** Growth & engagement over time  
+- **Middle row:** Demographics & city distribution  
+- **Bottom row:** Regional & age breakdown  
+
+Interactive slicers make it easy to filter and explore insights instantly.
+
 
 ## Project Structure  
 
