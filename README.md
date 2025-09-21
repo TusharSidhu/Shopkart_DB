@@ -19,18 +19,26 @@ Below is the ER Diagram for better understanding of the database structure:
 
 
 ---
-## 📈 Dashboard
-Here’s a sample dashboard created from the dataset:
+## 📈 Customer Analytics Dashboard 
 ![Customer Analytics](https://github.com/user-attachments/assets/55201a8f-b755-419f-8900-1a98a32a70a8)
 
-🚀 **Customer Analytics Dashboard – Visualizing Business Insights**
 
 This dashboard highlights customer growth, demographics, and regional trends.  
 - **Top row:** Growth & engagement over time  
 - **Middle row:** Demographics & city distribution  
 - **Bottom row:** Regional & age breakdown  
 
-Interactive slicers make it easy to filter and explore insights instantly.
+Slicers allow stakeholders to move from a macro view to a micro view, making the dashboard actionable for decision-making.
+
+## 📈 Order Analytics Dashboard
+
+
+This dashboard highlights order trends, customer activity, category performance, and revenue insights.
+- **Top row:** Monthly order trends & category-wise order size
+- **Middle row:** Top customers & order status distribution
+- **Bottom row:** Average order value across months/years
+
+Slicers allow stakeholders to move from a macro view to a micro view, making the dashboard actionable for decision-making.
 
 
 ## Project Structure  
